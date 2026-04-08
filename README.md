@@ -220,7 +220,7 @@ No expenses found.
 
 expense-tracker/
 
-├── expense\_tracker.py   # Main application file
+├── main.py   # Main application file
 
 ├── expenses.txt         # Auto-generated data file (created on first run)
 
